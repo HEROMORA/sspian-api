@@ -1,0 +1,28 @@
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[31mMongoDB failed to connect MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\u001b[39m","level":"error"}
+{"message":"\u001b[31mMongoDB failed to connect MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\u001b[39m","level":"error"}
+{"message":"\u001b[31mMongoDB failed to connect MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\u001b[39m","level":"error"}
+{"message":"\u001b[31mMongoDB failed to connect MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\u001b[39m","level":"error"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"The app is running on port 3000","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"The app is running on port 3000","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}

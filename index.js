@@ -1,20 +1,16 @@
 const express = require('express');
-const dotenv = require('dotenv');
 const path = require('path');
-
-dotenv.config({ path: './config/config.env' });
+const logger = require('./logger/logger');
 
 const app = express();
 
+require('./startup/config')(app);
+
 const port = process.env.PORT || 5000;
 
-// Allow App to parse JSON
-app.use(express.json())
-
-app.get('/', (req, res, next) => {
-    res.send("Hello World");
-})
+require('./startup/db');
+require('./startup/routes')(app);
 
 const server = app.listen(port, () => {
-    console.log(`The app is running on port on port ${port}`);
+    logger.info(`The app is running on port ${port}`.yellow);
 });
