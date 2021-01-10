@@ -342,3 +342,45 @@
 {"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
 {"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
 {"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"WriteConflict","level":"error"}
+{"message":"WriteConflict","level":"error"}
+{"message":"WriteConflict","level":"error"}
+{"message":"Illegal arguments: undefined, string","level":"error"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}

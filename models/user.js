@@ -27,15 +27,18 @@ const userSchema = new mongoose.Schema({
   },
 });
 
+//  Generates an access token to be used to access protected routes
 userSchema.methods.generateAuthToken = function() {
     const token = jwt.sign({_id: this._id, role: this.role}, process.env.JWT_SECRET);
     return token;
 }
 
+//  Compares the user entered password vs the hashed password in db
 userSchema.methods.comparePassword = async function(password) {
   return await bcrypt.compare(password, this.password);
 }
 
+//  Hash the password before saving it into the db
 userSchema.pre('save', async function (next) {
     const salt = await bcrypt.genSalt(10);
     const hashedPassword = await bcrypt.hash(this.password, salt);
