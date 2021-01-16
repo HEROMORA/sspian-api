@@ -31,7 +31,16 @@ module.exports.login = async (req, res, next) => {
 //  @access public
 //  @body   email password firstname lastname
 module.exports.register = async (req, res, next) => {
-  const { email, password, firstName, lastName, department } = req.body;
+  const { email, password, firstName, lastName, department, sspID } = req.body;
+
+  const pr = await Profile.findOne({$or: [{email}, {sspID}]});
+
+  if (pr) {
+    const errorMessage = pr.sspID === sspID ? 'A User with the same SSP ID Already Exists' : 'A User with the same Email Already Exists';
+    return next(new AppError(errorMessage, 400));
+  }
+
+
   const session = await mongoose.startSession();
   session.startTransaction();
 
@@ -44,6 +53,7 @@ module.exports.register = async (req, res, next) => {
     firstName,
     lastName,
     department,
+    sspID
   });
 
   await profile.save({ session });

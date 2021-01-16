@@ -23,6 +23,11 @@ const profileSchema = mongoose.Schema({
         required: [true, 'You must provide your department'],
         enum: ['CAE', 'CCE', 'GPE', 'EME']
     },
+    sspID: {
+        type: String,
+        unique: true,
+        required: [true, 'You must enter your ssp id'],
+    },
     courses: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Course'}]
 });
 
