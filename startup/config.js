@@ -11,6 +11,7 @@ module.exports = function(app) {
     // Allow App to parse JSON
     app.use(express.json());
 
+    // Middleware library used for logging the requests
     app.use(morgan('dev'));
 
 }

@@ -22,14 +22,14 @@ const userSchema = new mongoose.Schema({
   },
   role: {
     type: String,
-    enum: ['student', 'repre', 'teacher'],
+    enum: ['student', 'repre', 'teacher', 'admin'],
     default: 'student',
   },
 });
 
 //  Generates an access token to be used to access protected routes
-userSchema.methods.generateAuthToken = function() {
-    const token = jwt.sign({_id: this._id, role: this.role}, process.env.JWT_SECRET);
+userSchema.methods.generateAuthToken = function(payload) {
+    const token = jwt.sign({_id: this._id, role: this.role, ...payload}, process.env.JWT_SECRET);
     return token;
 }
 

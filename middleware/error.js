@@ -13,7 +13,8 @@ module.exports = (err, req, res, next) => {
 
   // Mongoose duplicate keys
   if (err.code === 11000) {
-    const message = `Duplicate field value entered`;
+    const key = Object.keys(err.keyValue)[0];
+    const message = `There already exists a record with ${key}: ${err.keyValue[key]}`;
     error = new AppError(message, 400);
   }
 

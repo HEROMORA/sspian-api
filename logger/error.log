@@ -25,3 +25,17 @@
 {"message":"WriteConflict","level":"error"}
 {"message":"Illegal arguments: undefined, string","level":"error"}
 {"message":"WriteConflict","level":"error"}
+{"message":"config is not defined","level":"error"}
+{"message":"Cannot access 'courses' before initialization","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeConnection'\n    |     property 'base' -> object with constructor 'Mongoose'\n    |     property 'connections' -> object with constructor 'Array'\n    --- index 0 closes the circle","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle","level":"error"}
+{"message":"data is not defined","level":"error"}
+{"message":"advancedResults.filter(...).paginate(...).select is not a function","level":"error"}
+{"message":"Cannot read property 'includes' of undefined","level":"error"}
+{"message":"Cannot read property 'includes' of undefined","level":"error"}
+{"message":"Cannot read property 'includes' of undefined","level":"error"}
+{"message":"Cannot read property 'includes' of undefined","level":"error"}
+{"message":"Cannot read property 'map' of undefined","level":"error"}
+{"message":"advancedResults.filter(...).paginate(...).select is not a function","level":"error"}
+{"message":"advancedResults.filter(...).paginate(...).select is not a function","level":"error"}

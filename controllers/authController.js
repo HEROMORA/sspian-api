@@ -5,7 +5,7 @@ const Profile = require('../models/profile');
 const AppError = require('../utils/AppError');
 
 //  @desc   logins a user into the system and return access token
-//  @route  /api/v1/auth/login
+//  @route  POST /api/v1/auth/login
 //  @access public
 //  @body   email   password
 module.exports.login = async (req, res, next) => {
@@ -27,7 +27,7 @@ module.exports.login = async (req, res, next) => {
 };
 
 //  @desc   registers a new user into the system and return access token
-//  @route  /api/v1/auth/register
+//  @route  POST /api/v1/auth/register
 //  @access public
 //  @body   email password firstname lastname
 module.exports.register = async (req, res, next) => {
@@ -67,7 +67,9 @@ module.exports.register = async (req, res, next) => {
 // Helper function to generate Authentication token and send profile data to user
 const userAuthenticated = (res, user, profile) => {
 
-  const token = user.generateAuthToken();
+  const payload = {_profileId: profile._id};
+
+  const token = user.generateAuthToken(payload);
 
   res.status(200).json({
     success: true,
