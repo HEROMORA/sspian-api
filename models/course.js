@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const courseSchema = mongoose.Schema({
     name: {
         type: String,
-        required: true,
+        required: [true, 'Course must have a name'],
     },
     code: {
         type: String,
@@ -12,13 +12,13 @@ const courseSchema = mongoose.Schema({
     },
     creditHours: {
         type: Number,
-        required: true,
+        required: [true, 'Course must have credit hours'],
         minLength: 1,
         maxLength: 4,
     },
     type: {
         type: String,
-        required: true,
+        required: [true, 'Course must have a type'],
         enum: ['core', 'elective', 'humanity']
     }
 });

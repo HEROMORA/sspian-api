@@ -28,6 +28,10 @@ const profileSchema = mongoose.Schema({
         unique: true,
         required: [true, 'You must enter your ssp id'],
     },
+    photo: {
+        type: String,
+        default: 'no-photo.png',
+    },
     courses: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Course'}]
 });
 
