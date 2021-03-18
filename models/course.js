@@ -20,6 +20,10 @@ const courseSchema = mongoose.Schema({
         type: String,
         required: [true, 'Course must have a type'],
         enum: ['core', 'elective', 'humanity']
+    },
+    term: { 
+        type: String,
+        enum: ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'],
     }
 });
 

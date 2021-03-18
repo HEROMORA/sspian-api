@@ -47,3 +47,14 @@
 {"message":"Error: ENOENT: no such file or directory, open 'C:\\public\\uploads\\photo_60060f49e718fb3434e82d6b.jpg'","level":"error"}
 {"message":"res is not defined","level":"error"}
 {"message":"Can't use $pullAll","level":"error"}
+{"message":"profile.save(...).populate is not a function","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Cannot read property 'toString' of undefined","level":"error"}
+{"message":"Cannot read property 'toHexString' of undefined","level":"error"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle","level":"error"}
+{"message":"Cannot read property '_id' of null","level":"error"}
+{"message":"Cannot read property '_id' of null","level":"error"}
+{"message":"Cannot read property '_id' of null","level":"error"}

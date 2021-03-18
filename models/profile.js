@@ -32,7 +32,7 @@ const profileSchema = mongoose.Schema({
         type: String,
         default: 'no-photo.png',
     },
-    courses: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Course'}]
+    enrollments: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Course'}]
 });
 
 const Profile = mongoose.model('Profile', profileSchema);

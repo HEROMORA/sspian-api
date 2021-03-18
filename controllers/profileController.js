@@ -71,17 +71,15 @@ module.exports.enrollInCourse = async (req, res, next) => {
         return next(new AppError('No course with this id is found'));
     }
 
-    const profile = await Profile.findById(req.user._profileId);
+    let profile = await Profile.findById(req.user._profileId);
 
-    const csId = profile.courses.find(c => c.toString() === courseId);
+    const csId = profile.enrollments.find(c => c._id.toString() === courseId);
 
     if (csId) {
         return next(new AppError('User is already enrolled in this course', 400));
     }
 
-    profile.courses.push(courseId);
-
-    await profile.save();
+    profile = await Profile.findOneAndUpdate({_id: profile._id}, { $push: {enrollments: course._id.toString() }}, {new: true}).populate('enrollments');
 
     res.status(200).json({
         success: true,
@@ -107,13 +105,13 @@ module.exports.unenrollInCourse = async (req, res, next) => {
 
     let profile = await Profile.findById(req.user._profileId);
 
-    const csId = profile.courses.find(c => c.toString() === courseId);
+    const csId = profile.enrollments.find(c => c.toString() === courseId);
 
     if (!csId) {
         return next(new AppError('User is not enrolled in this course', 400));
     }
 
-    profile = await Profile.findOneAndUpdate({_id: profile._id} ,{$pullAll: {courses: [csId]}}, {new: true});
+    profile = await Profile.findOneAndUpdate({_id: profile._id} ,{$pullAll: {enrollments: [csId]}}, {new: true}).populate('enrollments');
 
     res.status(200).json({
         success: true,
