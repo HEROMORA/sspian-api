@@ -5,6 +5,7 @@ class AdvancedQuery {
     this.model = model;
     this.query = query;
     this.queryString = queryString;
+    this.originalQueryString = queryString;
   }
 
   filter() {
@@ -62,17 +63,22 @@ class AdvancedQuery {
     return this;
   }
 
-  async paginate() {
-    if (this.query.page || this.query.limit) {
+  async paginate(autoPaginate) {
+    if (this.query.page || this.query.limit || autoPaginate) {
       const limit = parseInt(this.query.limit) || 10;
       const page = parseInt(this.query.page) || 1;
       const startIndex = (page - 1) * limit;
       const lastIndex = page * limit;
-      const total = await this.model.countDocuments();
+      //const total = await this.model.countDocuments();
+      const que = await this.originalQueryString;
+      const total = que.length;
+      const totalPages = Math.ceil(total / limit);
 
       this.pagination = {
         page,
         limit,
+        totalDoucements: total,
+        totalPages
       };
 
       if (startIndex > 0) {

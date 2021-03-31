@@ -58,3 +58,13 @@
 {"message":"Cannot read property '_id' of null","level":"error"}
 {"message":"Cannot read property '_id' of null","level":"error"}
 {"message":"Cannot read property '_id' of null","level":"error"}
+{"message":"advancedResults.filter(...).select(...).paginate(...).sort is not a function","level":"error"}
+{"message":"originalQueryString is not defined","level":"error"}
+{"message":"this.originalQueryString is not a function","level":"error"}
+{"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}
+{"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}
+{"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}
+{"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}
+{"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}
+{"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}
+{"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}

@@ -24,7 +24,12 @@ const courseSchema = mongoose.Schema({
     term: { 
         type: String,
         enum: ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'],
-    }
+    },
+    department: {
+        type: String,
+        required: [true, 'You must provide course department'],
+        enum: ['CAE', 'CCE', 'GPE', 'EME','BME', 'OCE', 'GP']
+    },
 });
 
 const Course = mongoose.model('Course', courseSchema);

@@ -11,7 +11,7 @@ module.exports.createCourse = async (req, res, next) => {
 
   await course.save();
 
-  res.status(200).json({
+  res.status(201).json({
     success: true,
     data: {
       course,

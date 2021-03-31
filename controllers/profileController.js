@@ -122,3 +122,25 @@ module.exports.unenrollInCourse = async (req, res, next) => {
         }
     });
 }
+
+//  @desc   Gets the current enrollments
+//  @route  POST /api/v1/profiles/me/enrollments
+//  @access Private
+module.exports.getEnrollments = async (req, res, next) => {
+    const populate = req.query.populate;
+
+    let profile = Profile.findById(req.user._profileId);
+
+    if (populate === 'true') {
+        profile = profile.populate('enrollments');
+    }
+
+    profile = await profile;
+
+    res.status(200).json({
+        success: true,
+        data: {
+            enrollments: profile.enrollments
+        }
+    });
+}

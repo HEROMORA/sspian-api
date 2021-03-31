@@ -21,7 +21,7 @@ const profileSchema = mongoose.Schema({
     department: {
         type: String,
         required: [true, 'You must provide your department'],
-        enum: ['CAE', 'CCE', 'GPE', 'EME']
+        enum: ['CAE', 'CCE', 'GPE', 'EME','BME', 'OCE', 'GP']
     },
     sspID: {
         type: String,
