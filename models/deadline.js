@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const Announcement = require('../models/announcement');
+const BaseUpdate = require('../models/update');
 
 const deadlineSchema = new mongoose.Schema({
     type: {
@@ -15,6 +15,6 @@ const deadlineSchema = new mongoose.Schema({
 });
 
 
-const DeadlineAnnouncement = Announcement.discriminator('DeadlineAnnouncement', deadlineSchema);
+const Deadline = BaseUpdate.discriminator('Deadline', deadlineSchema);
 
-module.exports = DeadlineAnnouncement;
+module.exports = Deadline;

@@ -7,6 +7,7 @@ const {
   getEnrolledDeadlines,
   updateDeadlineById,
   getDeadlineById,
+  getUpcommingDeadlines,
 } = require('../../controllers/deadlineController');
 
 const auth = require('../../middleware/auth');
@@ -17,23 +18,17 @@ router
   .route('/')
   .get(auth, getEnrolledDeadlines)
   .post(
-    [
-      auth,
-      role(['repre', 'teacher', 'admin']),
-      validBody('createDeadline'),
-    ],
+    [auth, role(['repre', 'teacher', 'admin']), validBody('createDeadline')],
     createDeadline
   );
+
+router.get('/upcomming', auth, getUpcommingDeadlines);
 
 router
   .route('/:id')
   .get(auth, getDeadlineById)
   .put(
-    [
-      auth,
-      role(['repre', 'teacher', 'admin']),
-      validBody('updateDeadline'),
-    ],
+    [auth, role(['repre', 'teacher', 'admin']), validBody('updateDeadline')],
     updateDeadlineById
   );
 

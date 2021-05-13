@@ -2,17 +2,24 @@ const express = require('express');
 
 const router = express.Router();
 
-const {getMyProfile, uploadProfilePicture, enrollInCourse, unenrollInCourse, getEnrollments} = require('../../controllers/profileController');
+const {
+  getMyProfile,
+  uploadProfilePicture,
+  enrollInCourse,
+  unenrollInCourse,
+  getEnrollments,
+} = require('../../controllers/profileController');
 const auth = require('../../middleware/auth');
 
-router.post('/me/photo',auth, uploadProfilePicture);
+const enrollmentsRouter = require('./enrollments');
 
-router.route('/me').get(auth, getMyProfile);
+router.use(auth);
 
-router.route('/me/enrollments').get(auth, getEnrollments);
+// Migrate to other routes with these URLs
+router.use('/enrollments', enrollmentsRouter);
 
-router.post('/enroll/:courseId', auth, enrollInCourse);
-router.post('/unenroll/:courseId', auth, unenrollInCourse);
+router.post('/me/photo', uploadProfilePicture);
 
+router.route('/me').get(getMyProfile);
 
 module.exports = router;

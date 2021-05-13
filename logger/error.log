@@ -68,3 +68,6 @@
 {"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}
 {"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}
 {"message":"user account has been updated after reload. Please reauthenticate the user","level":"error"}
+{"message":"Can't use _courseId with Date.","level":"error"}
+{"message":"Cannot access 'deadlineCount' before initialization","level":"error"}
+{"message":"Cannot read property 'length' of undefined","level":"error"}

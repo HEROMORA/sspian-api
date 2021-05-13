@@ -2,6 +2,7 @@ const Deadline = require('../models/deadline');
 const Profile = require('../models/profile');
 const AdvancedQuery = require('../utils/AdvancedQuery');
 const AppError = require('../utils/AppError');
+const deadlineCount = require('../utils/deadlineCount');
 
 //  @desc   creates a deadline in the system
 //  @route  POST /api/v1/deadlines/
@@ -57,10 +58,7 @@ module.exports.updateDeadlineById = async (req, res, next) => {
     req.user.role !== 'admin'
   ) {
     return next(
-      new AppError(
-        403,
-        'You must be the author of the deadline to update it'
-      )
+      new AppError(403, 'You must be the author of the deadline to update it')
     );
   }
 
@@ -88,6 +86,30 @@ module.exports.getDeadlineById = async (req, res, next) => {
     success: true,
     data: {
       deadline,
+    },
+  });
+};
+
+//  @desc  gets the upcomming deadlines
+//  @route  GET /api/v1/deadlines/upcomming
+//  @access private
+module.exports.getUpcommingDeadlines = async (req, res, next) => {
+  const profile = await Profile.findById(req.user._profileId);
+
+  const deadlines = await Deadline.find({
+    dueDate: { $gte: Date.now() },
+    _courseId: { $in: profile.enrollments },
+  })
+    .sort('dueDate');
+    //.populate({ path: '_courseId', select: 'name' });
+
+  const count = deadlineCount(deadlines);
+
+  res.status(200).json({
+    success: true,
+    count,
+    data: {
+      deadlines,
     },
   });
 };
