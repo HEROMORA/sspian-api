@@ -10,6 +10,8 @@ const updateAnnouncement = require('./updateAnnouncement');
 const createDeadline = require('./createDeadline');
 const updateDeadline = require('./updateDeadline');
 
+const createPost = require('./createPost');
+
 // Validation based on parameter
 module.exports = (field) => {
   switch (field) {
@@ -36,6 +38,10 @@ module.exports = (field) => {
       return createDeadline();
     case 'updateDeadline':
       return updateDeadline();
+
+    // Post Validations
+    case 'createPost':
+      return createPost();
 
   }
 

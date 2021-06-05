@@ -15,6 +15,11 @@ const role = require('../../middleware/role');
 
 const router = express.Router();
 
+const postsRouter = require('./posts');
+
+// Corrseponds to routes /API/V1/Courses/:id/posts
+router.use('/:courseId/posts', postsRouter);
+
 router
   .route('/:id')
   .get(auth, getCourseById)

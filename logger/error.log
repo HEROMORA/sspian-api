@@ -71,3 +71,19 @@
 {"message":"Can't use _courseId with Date.","level":"error"}
 {"message":"Cannot access 'deadlineCount' before initialization","level":"error"}
 {"message":"Cannot read property 'length' of undefined","level":"error"}
+{"message":"Cannot read property 'split' of undefined","level":"error"}
+{"message":"req.status is not a function","level":"error"}
+{"message":"req.status is not a function","level":"error"}
+{"message":"No course with the id undefined exists","level":"error"}
+{"message":"No course with the id undefined exists","level":"error"}
+{"message":"No course with the id undefined exists","level":"error"}
+{"message":"No course with the id undefined exists","level":"error"}
+{"message":"Cannot read property 'length' of null","level":"error"}
+{"message":"Cannot read property 'length' of null","level":"error"}
+{"message":"Cannot read property 'length' of null","level":"error"}
+{"message":"Cannot read property 'length' of null","level":"error"}
+{"message":"Cannot read property 'length' of null","level":"error"}
+{"message":"Cannot read property 'length' of null","level":"error"}
+{"message":"Cannot read property 'length' of null","level":"error"}
+{"message":"Cannot read property 'length' of null","level":"error"}
+{"message":"No course with the id 600473222fb1311df4968152 exists","level":"error"}

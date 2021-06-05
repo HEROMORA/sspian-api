@@ -69,16 +69,20 @@ class AdvancedQuery {
       const page = parseInt(this.query.page) || 1;
       const startIndex = (page - 1) * limit;
       const lastIndex = page * limit;
-      //const total = await this.model.countDocuments();
       const que = await this.originalQueryString;
-      const total = que.length;
-      const totalPages = Math.ceil(total / limit);
+      let total = 0;
+      let totalPages = 0;
+      
+      if (que) {
+        total = que.length;
+        totalPages = Math.ceil(total / limit);
+      }
 
       this.pagination = {
         page,
         limit,
-        totalDoucements: total,
-        totalPages
+        totalDocuments: total,
+        totalPages,
       };
 
       if (startIndex > 0) {

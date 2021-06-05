@@ -5,9 +5,6 @@ const router = express.Router();
 const {
   getMyProfile,
   uploadProfilePicture,
-  enrollInCourse,
-  unenrollInCourse,
-  getEnrollments,
 } = require('../../controllers/profileController');
 const auth = require('../../middleware/auth');
 

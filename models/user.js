@@ -38,6 +38,8 @@ userSchema.methods.comparePassword = async function(password) {
   return await bcrypt.compare(password, this.password);
 }
 
+// Model Middleware
+
 //  Hash the password before saving it into the db
 userSchema.pre('save', async function (next) {
     const salt = await bcrypt.genSalt(10);
