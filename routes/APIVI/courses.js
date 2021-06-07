@@ -17,18 +17,20 @@ const router = express.Router();
 
 const postsRouter = require('./posts');
 
+router.use(auth);
+
 // Corrseponds to routes /API/V1/Courses/:id/posts
 router.use('/:courseId/posts', postsRouter);
 
 router
   .route('/:id')
-  .get(auth, getCourseById)
-  .put([auth, role(['admin']), validBody('updateCourse')], updateCourseById)
-  .delete([auth, role(['admin'])], deleteCourseById);
+  .get(getCourseById)
+  .put([role(['admin']), validBody('updateCourse')], updateCourseById)
+  .delete([role(['admin'])], deleteCourseById);
 
 router
   .route('/')
-  .get(auth, getCourses)
-  .post([auth, role(['admin']), validBody('createCourse')], createCourse);
+  .get(getCourses)
+  .post([role(['admin']), validBody('createCourse')], createCourse);
 
 module.exports = router;

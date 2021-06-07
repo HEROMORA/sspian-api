@@ -11,6 +11,7 @@ const createDeadline = require('./createDeadline');
 const updateDeadline = require('./updateDeadline');
 
 const createPost = require('./createPost');
+const createComment = require('./createComment');
 
 // Validation based on parameter
 module.exports = (field) => {
@@ -42,6 +43,10 @@ module.exports = (field) => {
     // Post Validations
     case 'createPost':
       return createPost();
+
+    // Comment Validations
+    case 'createComment':
+      return createComment();
 
   }
 

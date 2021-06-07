@@ -87,3 +87,6 @@
 {"message":"Cannot read property 'length' of null","level":"error"}
 {"message":"Cannot read property 'length' of null","level":"error"}
 {"message":"No course with the id 600473222fb1311df4968152 exists","level":"error"}
+{"message":"No Post with the is of 60bc001ede635b0320ffab85","level":"error"}
+{"message":"FieldPath field names may not start with '$'.","level":"error"}
+{"message":"post is not defined","level":"error"}

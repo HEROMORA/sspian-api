@@ -7,16 +7,19 @@ const {
   checkCourseExists,
   getPosts,
   getPost,
+  deletePost,
 } = require('../../controllers/postController');
 
-const auth = require('../../middleware/auth');
 const validBody = require('../../middleware/validBody');
+const commentsRouter = require('./comments');
 
-router.use(auth);
 router.use(checkCourseExists);
+
+// Corrseponds to routes /API/V1/Courses/:id/posts/:postId/comments
+router.use('/:postId/comments', commentsRouter);
 
 router.route('/').get(getPosts).post(validBody('createPost'), createPost);
 
-router.route('/:postId').get(getPost);
+router.route('/:postId').get(getPost).delete(deletePost);
 
 module.exports = router;

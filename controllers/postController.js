@@ -59,11 +59,32 @@ module.exports.getPost = async (req, res, next) => {
   const post = await Post.findById(postId);
 
   if (!post) {
-    return next(new AppError(`No Post with the is of ${postId}`));
+    return next(new AppError(`No Post with the is of ${postId}`, 404));
   }
 
   res.status(200).json({
     sucess: true,
     data: { post },
+  });
+};
+
+//  @desc   Deletes posts for a specific course
+//  @route  DELETE /api/v1/courses/:courseId/posts/:postId
+//  @access Private
+module.exports.deletePost = async (req, res, next) => {
+  const postId = req.params.postId;
+  const post = await Post.findByIdAndDelete(postId);
+
+  if (post._profileId !== req.user._profileId && req.user.role !== 'admin') {
+    return next('You must be the auhtor of the comment to delete it', 403);
+  }
+
+
+  if (!post) {
+    return next(new AppError(`No Post with the is of ${postId}`, 404));
+  }
+
+  res.status(204).json({
+    sucess: true,
   });
 };

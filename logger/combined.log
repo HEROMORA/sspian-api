@@ -3652,3 +3652,409 @@
 {"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
 {"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
 {"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"No Post with the is of 60bc001ede635b0320ffab85","level":"error"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"FieldPath field names may not start with '$'.","level":"error"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"post is not defined","level":"error"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-01.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-00.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
+{"message":"\u001b[33mThe app is running on port 3000\u001b[39m","level":"info"}
+{"message":"\u001b[1m\u001b[4m\u001b[36mMongoDB connected: cluster0-shard-00-02.9iaqd.mongodb.net\u001b[39m\u001b[24m\u001b[22m","level":"info"}
